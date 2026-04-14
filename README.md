@@ -46,8 +46,7 @@
         <li><b>Tech:</b> Flutter, GetX, Custom Animations</li>
         <li>Interactive stories-style UI & Discovery cards</li>
         <li><a href="https://github.com/rayhantmt/Adeleade.git">📂 Source Code</a></li>
-          <li><a href="https://apps.apple.com/us/app/momentum-activity/id6758025583
-Momentum Activity">🔗 App Store Live</a></li>
+          <li><a href="https://apps.apple.com/us/app/momentum-activity/id6758025583">🔗 App Store Live</a></li>
       </ul>
     </td>
     <td width="50%">
