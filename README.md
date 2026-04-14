@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Rayhan</h1>
-<h3 align="center">Flutter Developer | Clean Architecture | GetX Expert</h3>
+<h1 align="center">Hi 👋, I'm Md Abu Rayhan Mia</h1>
+<h3 align="center">Flutter Developer | Clean Architecture | GetX & BLoC Expert</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
 <ul>
-  <li>💼 Flutter Developer with <b>2+ years of professional experience</b> building production-level applications</li>
-  <li>🏢 Currently working in a company delivering <b>scalable and maintainable mobile solutions</b></li>
-  <li>🧠 Strong expertise in <b>Clean Architecture, API Integration & Performance Optimization</b></li>
-  <li>⚙️ Experienced with <b>GetX, BLoC, and MVVM</b> for robust state management</li>
-  <li>🚀 Focused on writing <b>clean, reusable, and industry-standard code</b></li>
+  <li>💼 <b>Jr. App Developer</b> at Sparktech Agency with a focus on production-level Flutter apps</li>
+  <li>🎓 <b>CSE Student</b> at Dhaka International University (Batch D-93)</li>
+  <li>🧠 Specialized in <b>Clean Architecture</b> and <b>State Management (GetX & BLoC)</b></li>
+  <li>⚙️ Experienced in <b>RevenueCat</b>, <b>Firebase Integration</b>, and <b>REST APIs</b></li>
+  <li>🚀 Passionate about writing <b>clean, maintainable, and industry-standard code</b></li>
 </ul>
 
 ---
@@ -19,16 +24,14 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,postgresql" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,postgres,apple,bash" />
 </p>
 
-<ul>
-  <li><b>Frontend:</b> Flutter (Dart)</li>
-  <li><b>State Management:</b> GetX</li>
-  <li><b>Architecture:</b> MVVM + Clean Architecture</li>
-  <li><b>Backend Integration:</b> REST APIs (Swagger)</li>
-  <li><b>Database:</b> Hive, GetStorage, PostgreSQL</li>
-</ul>
+- **Frontend:** Flutter (Dart)
+- **State Management:** GetX, BLoC (Cubit), Provider
+- **Architecture:** Clean Architecture + MVVM
+- **Database:** Hive, GetStorage, PostgreSQL
+- **Tools:** Xcode, Postman, RevenueCat, Google Play Console
 
 ---
 
@@ -37,19 +40,21 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🍔 Food Review App</h3>
+      <h3>🌟 Momentum Activity</h3>
+      <p>A social discovery platform to find local gatherings and connect with passions.</p>
       <ul>
-        <li>Stories-style UI</li>
-        <li>Interactive cards & animations</li>
-        <li>GetX MVVM architecture</li>
+        <li><b>Tech:</b> Flutter, GetX, Custom Animations</li>
+        <li>Interactive stories-style UI & Discovery cards</li>
+        <li><a href="https://github.com/adeleade/momentum_activity">📂 Source Code</a></li>
       </ul>
     </td>
     <td width="50%">
-      <h3>🔐 Authentication System</h3>
+      <h3>🎖️ Readiness Track</h3>
+      <p>A mission-essential metrics tracker designed for U.S. Army personnel.</p>
       <ul>
-        <li>OTP verification</li>
-        <li>Secure API integration</li>
-        <li>Reusable network layer</li>
+        <li><b>Tech:</b> Flutter, BLoC, MedPro Tracking</li>
+        <li>Complex data visualization & fitness tools</li>
+        <li><a href="https://apps.apple.com/app/readiness-track/id123456789">🔗 App Store Live</a></li>
       </ul>
     </td>
   </tr>
@@ -57,24 +62,30 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-mia&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Rayhan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan-mia&theme=tokyonight" alt="Rayhan's Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-mia&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
+
+> **Note:** Make sure to replace `rayhan-mia` with your actual GitHub username in the links above to see your real-time stats!
 
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="mailto:your-email@gmail.com">📧 Email</a> |
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a> |
-  <a href="https://github.com/YOUR_USERNAME">💻 GitHub</a>
+  <a href="mailto:rayhan@example.com">📧 Email</a> | 
+  <a href="https://linkedin.com/in/md-abu-rayhan-mia">💼 LinkedIn</a> | 
+  <a href="https://github.com/rayhan-mia">💻 GitHub</a>
 </p>
 
 ---
