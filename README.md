@@ -7,10 +7,11 @@
 ## 🚀 About Me
 
 <ul>
-  <li>🔭 I’m currently working on <b>Production-level Flutter Apps</b></li>
-  <li>🌱 I’m mastering <b>Clean Architecture, API Integration & Scalable Apps</b></li>
-  <li>💡 Strong in <b>GetX, MVVM, Reusable Code Structure</b></li>
-  <li>⚡ Goal: Build industry-level apps with clean and maintainable code</li>
+  <li>💼 Flutter Developer with <b>2+ years of professional experience</b> building production-level applications</li>
+  <li>🏢 Currently working in a company delivering <b>scalable and maintainable mobile solutions</b></li>
+  <li>🧠 Strong expertise in <b>Clean Architecture, API Integration & Performance Optimization</b></li>
+  <li>⚙️ Experienced with <b>GetX, BLoC, and MVVM</b> for robust state management</li>
+  <li>🚀 Focused on writing <b>clean, reusable, and industry-standard code</b></li>
 </ul>
 
 ---
