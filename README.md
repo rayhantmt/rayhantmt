@@ -13,7 +13,7 @@
 
 <ul>
   <li>💼 <b>Jr. App Developer</b> at Sparktech Agency with a focus on production-level Flutter apps</li>
-  <li>🎓 <b>CSE Student</b> at Dhaka International University (Batch D-93)</li>
+  <li>🎓 <b>CSE Student</b> at Dhaka International University (final year)</li>
   <li>🧠 Specialized in <b>Clean Architecture</b> and <b>State Management (GetX & BLoC)</b></li>
   <li>⚙️ Experienced in <b>RevenueCat</b>, <b>Firebase Integration</b>, and <b>REST APIs</b></li>
   <li>🚀 Passionate about writing <b>clean, maintainable, and industry-standard code</b></li>
