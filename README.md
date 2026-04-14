@@ -79,7 +79,6 @@ Momentum Activity">🔗 App Store Live</a></li>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhantmt&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
-> **Note:** Make sure to replace `rayhan-mia` with your actual GitHub username in the links above to see your real-time stats!
 
 ---
 
