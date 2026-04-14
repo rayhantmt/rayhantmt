@@ -68,17 +68,12 @@ Momentum Activity">🔗 App Store Live</a></li>
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhantmt&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Rayhan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhantmt&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhantmt&theme=tokyonight" alt="Rayhan's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhantmt&theme=tokyonight" alt="Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhantmt&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
 
 ---
 
